@@ -1,15 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Made By Phil`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Phil Heijkoop`,
+      summary: `Builder, Writer, Pragmatist`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
-    social: {
-      twitter: `kylemathews`,
-    },
+    description: `A blog tracking all the things made by Phil`,
+    siteUrl: `https://www.madebyphil.com/`,
   },
   plugins: [
     `gatsby-plugin-image`,
@@ -18,6 +15,13 @@ module.exports = {
       options: {
         path: `${__dirname}/content/blog`,
         name: `blog`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        path: `${__dirname}/content/collections`,
+        name: `collections`,
       },
     },
     {
@@ -113,8 +117,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Made by Phil`,
+        short_name: `MadeByPhil`,
         start_url: `/`,
         background_color: `#ffffff`,
         // This will impact how browsers show your PWA/website
@@ -124,6 +128,13 @@ module.exports = {
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
+    `gatsby-plugin-mdx`,
+    /*{
+      resolve: "@mdotasia/gatsby-plugin-tags",
+      options: {
+        template: `${__dirname}/src/templates/blog_post.jsx`
+      }
+    },*/
     `gatsby-plugin-react-helmet`,
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
