@@ -1,0 +1,30 @@
+---
+title: "Never Split the Difference"
+date: "2020-06-28"
+description: "Book notes for Chris Voss's Never Split the Difference"
+tags: ["book-notes", "negotiation", "business"]
+---
+
+#### By Chris Voss
+
+This book takes an interesting premise; namely that almost all conversations are a form of negotiations. And therefore that you can apply the principles used by the FBI in hostage negotiations to become better at getting what you need out of your conversations. I found this book to be supremely insightful, as it takes the basis that humans try to be rational but in many cases are led by their emotions as well. Defining those and seeing how you can manipulate them to get a mutually satisfactory end state was very helpful. I will likely review the concepts in this book several times before I feel comfortable saying I have truly grasped them.
+
+The first chapter states that the theory taught in _Getting to Yes_ was antiquated. That while it held some value as a means of debating topics rationally, it lacked a lot of what makes conversations so tricky; emotions.
+
+Chapter two starts with active listening. Which makes a lot of sense, when you view conversations through the lens of two people sharing information about their wants and needs, the better you can listen the more you can glean from what the other is sharing with you, both conciously and subconciously. You can learn a lot, or keep the other side talking longer by mirroring what they said, in particular the last 3 words they said. The more they talk, the more you can learn. It also points out how to tactically use silence. Finally, the way you talk to others should make them feel safe and exhude empathy, the authors talk about using your **late night FM DJ voice**.
+
+Chapter three discusses tactical empathy, a term I love, since it really exemplifies using empathy to your advantage. You can do this by using techniques such as mirroring (repeating what they say), labeling negative feelings (best done at the onset) and then using silence strategically, since it will allow the other person to feel heard, understood and then compel them to keep talking. This allows you to understand the other person, defuse any fears and negative feelings, and then work towards understanding and a positive outcome.
+
+Chapter four discusses the fallacy we all assume when dealing with others. The goal isn't to get them to say "yes", when that "yes" isn't directly coupled with a desire to follow through. Oftentimes what you'd rather get is a firm "no" on a topic so you can build from there to a committed "yes" through understanding their reservations.
+
+Chapter five focuses on laying the groundwork for mutual understanding. Rephrasing what the other has said and adding labels makes it implicit to them that you understand their point of view (even if you don't necessarily agree with it). That makes it easy for them to work towards a mutually agreeable resolution. The emphasis with the summary should be on "that's right", and not a simple "yes".
+
+Chapter six focuses on verbal tricks to get your opposite to see 'fair' as a term that means the same to you as it does to them. Buidling towards that is crucial in both walking away from the negotiation with something that doesn't feel good. It also focuses on how deadlines can sometimes force the end of a negotiation, but that doesn't mean that end is a good conclusion that the other party will enjoy and execute their end of. Towards the brass tacks of negotiation, it helps to anchor the other person's expectations by starting with a worst case scenario and then improve on that with a real offer. People work hard to avoid a loss, so when you are trying to get them to a take a risk formulating the outcome in the form of a loss averted is more helpful.
+
+Chapter seven focuses on using calibrated questions to tease out any conflict, neutralize it while it doesn't have as much emotional charge, and then move past it. Don't be a bully and force confrontation, but try to tease out the situation with questions designed to be answered by having the other person be helpful (ie explaining stuff to you), best done through "how" and "what" questions. It also gets them to keep talking, which gives you more information to work with. Avoid "why", since it gets people defensive. Properly calibrating your questions can steer the other party to a resolution you want. By asking how they'd solve a given solution, it forces them to solve that problem (so make it your problem).
+
+Chapter eight builds on the concept alluded to in chapter four, the whole goal isn't to get the other side to say "yes" in some form of capitulation (think of how shitty the hard sell is), but to get them to agree and have a plan on how to follow through. Using a series of "how" questions gets them to keep talking. Don't forget to also ask questions like how the deal will affect everybody else so you can uncover other people whose input matters. Tone and voice can be clues to uncover topics to explore more deeply.
+
+Chapter nine discusses some interesting tactics around anchoring negotiations around prices and how you can negotiate on your own terms. It discusses the pros and cons of being the first to set a number and how you can use that to your own advantage when you are a buyer. Open with 65% of the intended price, then gradually go to 85, 95 and 100. That also makes each step smaller towards the concession price and makes it seem like there really is no more wiggle room. Don't use round numbers, often times the not so round ones are perceived as a properly calculated and final number.
+
+Chapter ten discusses Black Swans. That's a term that Voss is clearly passionate about, though it is conceptually simple. Sometimes you will find out something about the other side that changes everything you thought you knew about them, it reframes everything you know and had done till now. While Voss claims they are present in every negotiation, the key is just to listen and identify the other side's position and how it differs from your preconceived notions and assumptions.
