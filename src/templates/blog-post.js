@@ -1,3 +1,5 @@
+
+//Note that this is the template used when someone goes to the path equivalent url - we can probably use this to differentiate between books and other posts
 import * as React from "react"
 import { Link, graphql } from "gatsby"
 

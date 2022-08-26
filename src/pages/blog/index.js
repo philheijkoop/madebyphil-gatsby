@@ -14,9 +14,7 @@ const BlogPage = ({ data }) => {
               </Link>
             </h2>
             <p>Posted: {node.frontmatter.date}</p>
-            <p>Id: {node.id}</p>
             <p>Tags: {node.frontmatter.tags === null ? "" :  node.frontmatter.tags.join(', ')}</p>
-            
           </article>
         ))
       }
